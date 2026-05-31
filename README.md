@@ -31,14 +31,5 @@ I am a passionate first-year Bachelor's degree student based in **Lviv, Ukraine*
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maksymmaa&show_icons=true&theme=dark" alt="Maksym's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymmaa&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🤝 Connect with me
 * 💬 Ask me about: **Python, OOP concepts, or project architecture.**
