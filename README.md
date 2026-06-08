@@ -16,7 +16,7 @@ I am a passionate first-year Bachelor's degree student based in **Lviv, Ukraine*
 
 | Category | Technologies & Languages |
 | :--- | :--- |
-| **Primary Language** | `Python` (Advanced OOP, Structural Pattern Matching) |
+| **Primary Language** | `Python` (Advanced OOP) |
 | **Past & Academic Exp.** | `C++`, `Java`, `Object Pascal (Delphi)` |
 | **Web Basics (Frontend)** | `HTML5`, `CSS3` |
 | **Tools & Environments** | `Git`, `GitHub`, `PyCharm` |
