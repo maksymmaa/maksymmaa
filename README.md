@@ -26,10 +26,10 @@ I am a passionate first-year Bachelor's degree student based in **Lviv, Ukraine*
 ### 📂 Featured Projects
 *(Pins are locked below, but here is a quick overview of what I've been hacking on lately)*
 
-* 📊 **[Console Finance Tracker](https://github.com/maksymmaa/Console_Finance_Tracker)** – An interactive CLI app utilizing Python's structural pattern matching to log spending, categorize expenses, and dynamically enforce strict money limits.
-* 🔤 **[Text Utility Tool](https://github.com/maksymmaa/Text_Utility_Tool)** – A modular text manipulation application featuring cryptographic ciphers (Caesar), statistics processing, automated cleaning pipelines, and persistent storage file logging.
-* 🔤 **[Smart Diary And Note Manager](https://github.com/maksymmaa/Smart_Diary_And_Note_Manager)** – A modular, password-protected Python console diary featuring strict credential validation, real-time word parsing, localized search filtering, and persistent storage isolation.
-* 🔤 **[CLI Tracker](https://github.com/maksymmaa/CLI_Tracker)** – A Python CLI application for logging tasks, managing active deadlines, and analyzing weekly productivity with JSON-based persistent storage.
+* **[Console Finance Tracker](https://github.com/maksymmaa/Console_Finance_Tracker)** – An interactive CLI app utilizing Python's structural pattern matching to log spending, categorize expenses, and dynamically enforce strict money limits.
+* **[Text Utility Tool](https://github.com/maksymmaa/Text_Utility_Tool)** – A modular text manipulation application featuring cryptographic ciphers (Caesar), statistics processing, automated cleaning pipelines, and persistent storage file logging.
+* **[Smart Diary And Note Manager](https://github.com/maksymmaa/Smart_Diary_And_Note_Manager)** – A modular, password-protected Python console diary featuring strict credential validation, real-time word parsing, localized search filtering, and persistent storage isolation.
+* **[CLI Tracker](https://github.com/maksymmaa/CLI_Tracker)** – A Python CLI application for logging tasks, managing active deadlines, and analyzing weekly productivity with JSON-based persistent storage.
 
 ---
 
