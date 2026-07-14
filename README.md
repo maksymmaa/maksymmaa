@@ -5,7 +5,7 @@ I am a passionate first-year Bachelor's degree student based in **Lviv, Ukraine*
 ---
 
 ### 🚀 About Me
-* 🎓 **Education:** 1st-year University Student (Bachelor's Program).
+* 🎓 **Education:** 2nd-year University Student (Bachelor's Program).
 * 🐍 **Core Passion:** Deeply into Python development, with a strong emphasis on Object-Oriented Programming (OOP) and clean architecture.
 * 🌍 **Languages:** Fluent communication with a certified **B2 level in English (TELC)**.
 * ⚙️ **Workflow:** Version control enthusiast using Git and PyCharm to keep my code organized.
