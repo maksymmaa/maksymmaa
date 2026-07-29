@@ -30,6 +30,8 @@ I am a passionate second-year Bachelor's degree student based in **Lviv, Ukraine
 * **[Text Utility Tool](https://github.com/maksymmaa/Text_Utility_Tool)** – A modular text manipulation application featuring cryptographic ciphers (Caesar), statistics processing, automated cleaning pipelines and persistent storage file logging.
 * **[Smart Diary And Note Manager](https://github.com/maksymmaa/Smart_Diary_And_Note_Manager)** – A modular, password-protected Python console diary featuring strict credential validation, real-time word parsing, localized search filtering and persistent storage isolation.
 * **[CLI Tracker](https://github.com/maksymmaa/CLI_Tracker)** – A Python CLI application for logging tasks, managing active deadlines and analyzing weekly productivity with JSON-based persistent storage.
+* **[Movie Recommendation Analyzer](https://github.com/maksymmaa/Movie_Recommendation_Analyzer)** – A modular Python CLI movie manager featuring custom exception hierarchies (`ValidationError`), real-time catalog analytics, multi-criteria sorting and persistent JSON database storage.
+* **[Workspace Snapshot Manager](https://github.com/maksymmaa/Workspace_Snapshot_Manager)** – A modular, type-safe Python CLI tool for tracking, organizing and analyzing project workspaces with persistent JSON storage, automated logging, and domain-driven data validation.
 
 ---
 
