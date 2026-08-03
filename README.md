@@ -35,27 +35,27 @@ I enjoy solving real-world problems through code, continuously learning new tech
 
 ## 📂 Featured Projects
 
-### 👨‍💼 Workspace Snapshot Manager
+### Workspace Snapshot Manager
 A modular, type-safe Python CLI tool for tracking, organizing and analyzing project workspaces with persistent JSON storage, automated logging and domain-driven data validation.
 
-### 💰 Movie Recommendation Analyzer
+### Movie Recommendation Analyzer
 A modular Python CLI movie manager featuring custom exception hierarchies (`ValidationError`), real-time catalog analytics, multi-criteria sorting and persistent JSON database storage.
 
-### 📚 CLI Tracker
+### CLI Tracker
 A Python CLI application for logging tasks, managing active deadlines and analyzing weekly productivity with JSON-based persistent storage.
 
-### 🎮 Smart Diary And Note Manager
-A modular, password-protected Python console diary featuring strict credential validation, real-time word parsing, localized search filtering, and persistent storage isolation.
+### Smart Diary And Note Manager
+A modular, password-protected Python console diary featuring strict credential validation, real-time word parsing, localized search filtering and persistent storage isolation.
 
-### 💼 Text Utility Tool
+### Text Utility Tool
 Interactive CLI application for text manipulation and analysis in Python.
 
-### 💼 Console Finance Tracker
-An interactive Python console tracker for personal finance management, built using structural pattern matching to handle user inputs, spending limits, and category filtering.
+### Console Finance Tracker
+An interactive Python console tracker for personal finance management, built using structural pattern matching to handle user inputs, spending limits and category filtering.
 
 ---
 
-## 🤝 Connect & Discuss
+## Connect & Discuss
 
 💬 Feel free to reach out if you'd like to discuss:
 
