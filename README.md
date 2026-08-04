@@ -53,6 +53,9 @@ Interactive CLI application for text manipulation and analysis in Python.
 ### Console Finance Tracker
 An interactive Python console tracker for personal finance management, built using structural pattern matching to handle user inputs, spending limits and category filtering.
 
+### Log Analyzer
+A modular, type-safe Python CLI log analyzer leveraging memory-efficient generator streams, custom execution decorators, structural pattern matching and automated JSON report exports.
+
 ---
 
 ## Connect & Discuss
