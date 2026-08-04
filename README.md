@@ -35,6 +35,9 @@ I enjoy solving real-world problems through code, continuously learning new tech
 
 ## 📂 Featured Projects
 
+### Log Analyzer
+A modular, type-safe Python CLI log analyzer leveraging memory-efficient generator streams, custom execution decorators, structural pattern matching and automated JSON report exports.
+
 ### Workspace Snapshot Manager
 A modular, type-safe Python CLI tool for tracking, organizing and analyzing project workspaces with persistent JSON storage, automated logging and domain-driven data validation.
 
@@ -52,9 +55,6 @@ Interactive CLI application for text manipulation and analysis in Python.
 
 ### Console Finance Tracker
 An interactive Python console tracker for personal finance management, built using structural pattern matching to handle user inputs, spending limits and category filtering.
-
-### Log Analyzer
-A modular, type-safe Python CLI log analyzer leveraging memory-efficient generator streams, custom execution decorators, structural pattern matching and automated JSON report exports.
 
 ---
 
