@@ -8,14 +8,14 @@ I enjoy solving real-world problems through code, continuously learning new tech
 
 ## 🚀 About Me
 
-* 🎓 **Education:** Bachelor's Student in Computer Science.
-* 🐍 **Core Passion:** Python Backend Development, Object-Oriented Programming (OOP) and software architecture.
-* 🤖 **Interests:** Artificial Intelligence, Backend Development and modern software engineering.
-* 🧪 **Testing:** Experience writing unit tests with **pytest** and building reliable applications.
-* 💼 **Practical Experience:** Personal projects, GitHub portfolio and freelance software development.
-* 🎮 **Game Development:** Exploring **Unreal Engine 5** and **Unity** through small games and interactive prototypes.
-* 🌍 **Languages:** English (**B2 TELC Certified**), Ukrainian (Native).
-* ⚙️ **Workflow:** Git, GitHub, PyCharm, clean project architecture and version control.
+*  **Education:** Bachelor's Student in Computer Science.
+*  **Core Passion:** Python Backend Development, Object-Oriented Programming (OOP) and software architecture.
+*  **Interests:** Artificial Intelligence, Backend Development and modern software engineering.
+*  **Testing:** Experience writing unit tests with **pytest** and building reliable applications.
+*  **Practical Experience:** Personal projects, GitHub portfolio and freelance software development.
+*  **Game Development:** Exploring **Unreal Engine 5** and **Unity** through small games and interactive prototypes.
+*  **Languages:** English (**B2 TELC Certified**), Ukrainian (Native).
+*  **Workflow:** Git, GitHub, PyCharm, clean project architecture and version control.
 
 ---
 
