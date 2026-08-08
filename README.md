@@ -23,9 +23,9 @@ I enjoy solving real-world problems through code, continuously learning new tech
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | **Python**, C++, Java, Object Pascal (Delphi) |
+| **Programming Languages** | **Python**, C++, Java, Object Pascal |
 | **Backend** | Python, OOP, REST APIs, JSON, File Handling |
-| **Databases** | PostgreSQL, SQL |
+| **Databases** | MySQL, SQL |
 | **Testing** | pytest, Unit Testing |
 | **Developer Tools** | Git, GitHub, PyCharm |
 | **Web** | HTML5, CSS3 |
