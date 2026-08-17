@@ -1,6 +1,6 @@
 # Hi there, I'm Maksym! 👋
 
-I am a passionate **Computer Science Bachelor's student** based in **Lviv, Ukraine** 🇺🇦. My primary interests are **Python Backend Development**, **Artificial Intelligence** and building clean, modular and maintainable software.
+I am a passionate Computer Science Bachelor's student based in Lviv, Ukraine 🇺🇦. My primary interests are Python Backend Development, Artificial Intelligence and building clean, modular and maintainable software.
 
 I enjoy solving real-world problems through code, continuously learning new technologies and developing practical projects that strengthen my software engineering skills.
 
@@ -23,7 +23,7 @@ I enjoy solving real-world problems through code, continuously learning new tech
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | **Python**, C++, Java, Object Pascal |
+| **Programming Languages** | Python, C++, Java, Object Pascal |
 | **Backend** | Python, OOP, REST APIs, JSON, File Handling |
 | **Databases** | MySQL, SQL |
 | **Testing** | pytest, Unit Testing |
