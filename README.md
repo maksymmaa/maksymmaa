@@ -25,7 +25,7 @@ I enjoy solving real-world problems through code, continuously learning new tech
 | :--- | :--- |
 | **Programming Languages** | Python, C++, Java, Object Pascal |
 | **Backend** | Python, OOP, REST APIs, JSON, File Handling |
-| **Databases** | MySQL, SQL |
+| **Databases** | MySQL |
 | **Testing** | pytest, Unit Testing |
 | **Developer Tools** | Git, GitHub, PyCharm |
 | **Web** | HTML5, CSS3 |
@@ -46,15 +46,6 @@ A modular Python CLI movie manager featuring custom exception hierarchies (`Vali
 
 ### CLI Tracker
 A Python CLI application for logging tasks, managing active deadlines and analyzing weekly productivity with JSON-based persistent storage.
-
-### Smart Diary And Note Manager
-A modular, password-protected Python console diary featuring strict credential validation, real-time word parsing, localized search filtering and persistent storage isolation.
-
-### Text Utility Tool
-Interactive CLI application for text manipulation and analysis in Python.
-
-### Console Finance Tracker
-An interactive Python console tracker for personal finance management, built using structural pattern matching to handle user inputs, spending limits and category filtering.
 
 ---
 
