@@ -27,7 +27,7 @@ I enjoy solving real-world problems through code, continuously learning new tech
 | **Backend** | Python, OOP, REST APIs, JSON, File Handling |
 | **Databases** | MySQL |
 | **Testing** | pytest, Unit Testing |
-| **Developer Tools** | Git, GitHub, PyCharm |
+| **Developer Tools** | Git, GitHub, PyCharm, Visual Studio Code |
 | **Web** | HTML5, CSS3 |
 | **Game Development** | Unreal Engine 5, Unity |
 
